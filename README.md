@@ -16,7 +16,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * João Vitor Fernandes Oliveira
 * Laura Furtado dos Reis
 * Marcos Antonio Araujo Junior
-* Victor Mont Morency Gondim Rodrigues
+* Victor Mont-Morency Gondim Rodrigues
 * João Gabriel Rosa Costa
 ## Orientador
 

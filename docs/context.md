@@ -47,11 +47,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-Lembre-se de pesquisar e utilizar números que justifiquem por que é importante que tal problema seja resolvido ou que mostrem o impacto do problema na vida das pessoas.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O Pet Match surge como uma solução para atender à crescente demanda por hospedagem de animais de estimação no Brasil, onde mais de 60% dos lares possuem pets, conforme dados do Instituto Brasileiro de Geografia e Estatística (IBGE). Há uma lacuna entre a oferta e a demanda, com dificuldade em encontrar hospedagens adequadas. O Pet Match oferece uma plataforma de pesquisa, comparação e reserva de hospedagem, garantindo o bem-estar e segurança dos animais. O objetivo é proporcionar tranquilidade aos tutores e conforto aos pets, alinhando-se às necessidades do mercado e promovendo cuidado adequado aos animais.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)

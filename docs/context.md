@@ -23,12 +23,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O Pet Match surge como uma solução para atender à crescente demanda por hospedagem de animais de estimação no Brasil, onde mais de 60% dos lares possuem pets, conforme dados do Instituto Brasileiro de Geografia e Estatística (IBGE). Há uma lacuna entre a oferta e a demanda, com dificuldade em encontrar hospedagens adequadas. O Pet Match oferece uma plataforma de pesquisa, comparação e reserva de hospedagem, garantindo o bem-estar e segurança dos animais. O objetivo é proporcionar tranquilidade aos tutores e conforto aos pets, alinhando-se às necessidades do mercado e promovendo cuidado adequado aos animais.
 
 ## Justificativa
 

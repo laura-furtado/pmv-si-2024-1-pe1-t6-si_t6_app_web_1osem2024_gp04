@@ -18,6 +18,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Marcos Antonio Araujo Junior
 * Victor Mont-Morency Gondim Rodrigues
 * João Gabriel Rosa Costa
+* Nicolas Souza Di Lascio
 ## Orientador
 
 * Nome completo do professor 1

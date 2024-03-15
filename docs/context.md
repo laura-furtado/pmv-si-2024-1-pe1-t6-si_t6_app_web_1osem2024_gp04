@@ -49,9 +49,6 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 O Pet Match surge como uma solução para atender à crescente demanda por hospedagem de animais de estimação no Brasil, onde mais de 60% dos lares possuem pets, conforme dados do Instituto Brasileiro de Geografia e Estatística (IBGE). Há uma lacuna entre a oferta e a demanda, com dificuldade em encontrar hospedagens adequadas. O Pet Match oferece uma plataforma de pesquisa, comparação e reserva de hospedagem, garantindo o bem-estar e segurança dos animais. O objetivo é proporcionar tranquilidade aos tutores e conforto aos pets, alinhando-se às necessidades do mercado e promovendo cuidado adequado aos animais.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
     
 Aqui entendemos que cada pet e seu dono têm necessidades únicas. Nosso serviço é projetado para atender a uma variedade de públicos, proporcionando cuidados confiáveis e personalizados para seus animais de estimação. Aqui estão alguns grupos de pessoas que acreditamos que se beneficiam do nosso sistema de gerenciamento de cuidados de pets:

@@ -1,12 +1,34 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
-
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
-
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+O Brasil é um dos países com o maior número de animais de estimação. Segundo 
+uma pesquisa realizada pelo censo do IPB, Instituto Pet Brasil, 70% da população 
+brasileira possui um pet em casa ou conhece alguém que tenha, sendo a preferência 
+por cães, seguido por gatos e peixes. 
+Com o aumento do número de indivíduos que possuem um animal doméstico, houve 
+também um crescimento na demanda por serviços de hospedagem, visto que muitas 
+famílias quando viajam necessitam de um local seguro e acessível para deixarem os 
+seus animais de estimação.
+Entretanto, a oferta por esses serviços não acompanhou a demanda e ainda é muito 
+inferior. Sendo assim, muitos tutores de animais domésticos encontram dificuldades 
+para encontrar opções de hospedagem que sejam acessíveis e atendam as 
+necessidades individuais dos seus pets, como alimentação adequada, cuidados 
+médicos específicos e atividades recreativas. 
+Além disso, a carência por informações detalhadas sobre a qualidade das instalações 
+e os serviços fornecidos pelos hotéis prejudica ainda mais a experiência dos tutores, 
+que buscam um ambiente seguro e bem equipado para os seus animais de 
+estimação. 
+Sendo assim, resolvemos desenvolver o Pet Match, um site de hotéis para pets com 
+uma rede de pesquisa, comparação e reserva de hospedagem, fornecendo 
+informações detalhadas sobre as instalações e políticas de cada estabelecimento.
+Buscando sanar cada vez mais as necessidades especiais de cada animal de 
+estimação, assim como as exigências de cada dono, o Pet Match também dispõe de 
+uma área onde os usuários podem fornecer informações básicas e avançadas sobre 
+cada um dos seus animais domésticos, como raça, idade, complicações médicas, 
+alimentação, rotina e exigências, assim como o período em que irão precisar do 
+serviço.
+Ao oferecer uma solução inovadora e conveniente, o nosso site visa melhorar a 
+experiência dos tutores e garantir o conforto e a segurança dos animais durante sua 
+hospedagem, contribuindo para o bem-estar e a felicidade de toda a família
 
 ## Problema
 

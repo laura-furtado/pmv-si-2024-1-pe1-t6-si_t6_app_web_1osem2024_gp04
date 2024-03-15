@@ -59,10 +59,26 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
+    
+Aqui entendemos que cada pet e seu dono têm necessidades únicas. Nosso serviço é projetado para atender a uma variedade de públicos, proporcionando cuidados confiáveis e personalizados para seus animais de estimação. Aqui estão alguns grupos de pessoas que acreditamos que se beneficiam do nosso sistema de gerenciamento de cuidados de pets:
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+Amigos ou Casais Viajantes: Se você e seu parceiro/amigo adoram explorar o mundo juntos, nós fornecemos uma solução segura e confiável para cuidar do seu pet enquanto vocês estão ausentes.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Profissionais Ocupados: Para aqueles com agendas agitadas, como profissionais que trabalham longas horas ou viajam com frequência a trabalho, oferecemos uma maneira conveniente de encontrar cuidadores confiáveis para seus pets.
+
+Famílias Atarefadas: Com crianças em idade escolar e pais trabalhadores, entendemos que pode ser difícil encontrar tempo para cuidar dos pets. Nosso serviço oferece assistência confiável para garantir que seus animais de estimação recebam os cuidados de que precisam.
+
+Pessoas Solteiras com Pets: Se você é solteiro e não tem uma rede de apoio disponível para cuidar do seu pet durante suas ausências, estamos aqui para ajudar, fornecendo cuidadores confiáveis e amorosos.
+
+Idosos com Pets: Para os idosos que possuem pets como companhia e podem precisar de ajuda ocasional para cuidar deles, oferecemos suporte dedicado para garantir o bem-estar do seu animal de estimação.
+
+Novos Proprietários de Pets: Se você recentemente adotou um pet e está procurando por serviços confiáveis de cuidados temporários enquanto se adapta à responsabilidade de ser dono de um animal, estamos aqui para ajudar durante essa transição.
+
+Amantes de Animais que Trabalham: Para aqueles que têm paixão por animais, mas enfrentam limitações devido a compromissos profissionais, fornecemos cuidados 24 horas por dia para garantir que seus pets recebam amor e atenção enquanto você está ocupado.
+
+Estudantes Universitários: Se você é um estudante universitário com um pet e precisa de assistência durante os períodos de férias ou enquanto está ocupado com os estudos, oferecemos cuidados temporários para garantir o bem-estar do seu animal de estimação.
+
+No PetMatch, estamos comprometidos em fornecer cuidados excepcionais para seus animais de estimação, independentemente das circunstâncias. Junte-se a nós e descubra como podemos tornar a vida com seu pet mais fácil e conveniente.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)

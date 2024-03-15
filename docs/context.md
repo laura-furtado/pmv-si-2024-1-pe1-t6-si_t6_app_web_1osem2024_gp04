@@ -45,8 +45,6 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-O Pet Match surge como uma solução para atender à crescente demanda por hospedagem de animais de estimação no Brasil, onde mais de 60% dos lares possuem pets, conforme dados do Instituto Brasileiro de Geografia e Estatística (IBGE). Há uma lacuna entre a oferta e a demanda, com dificuldade em encontrar hospedagens adequadas. O Pet Match oferece uma plataforma de pesquisa, comparação e reserva de hospedagem, garantindo o bem-estar e segurança dos animais. O objetivo é proporcionar tranquilidade aos tutores e conforto aos pets, alinhando-se às necessidades do mercado e promovendo cuidado adequado aos animais.
-
 ## Justificativa
 
 Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
